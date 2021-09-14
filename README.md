@@ -1,4 +1,4 @@
-# **Jogo da cobrinha! **:snake:
+# **Jogo da cobrinha!** :snake:
 
 Remake do clássico jogo da cobrinha desenvolvido com JS puro! 
 
