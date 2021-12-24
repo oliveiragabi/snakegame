@@ -7,14 +7,14 @@ Remake do clássico jogo da cobrinha desenvolvido com JS puro!
 
 
 Para jogar siga os seguintes passos:
-
 - Faça o *git clone* ou o *download* do repositório zipado no seu computador;
 
-  ![image-20210914000957922](C:\Users\gabrielle\Pictures\image-20210914000957922.png)
+- Após isso, na pasta snakegame clique em index.html e prontinho! Já vai poder jogar e ter o Snake Game em sua máquina :)
 
-- Após isso, clique em index.html e prontinho! Já vai poder jogar e ter o Snake Game em sua máquina :)
+  ![image-20210914001127116](C:\Users\gabrielle\Pictures\image-20210914001127116.png)
+  
+ 
 
-  ![image-20210914001127116](C:\Users\gabrielle\AppData\Roaming\Typora\typora-user-images\image-20210914001127116.png)
 
 
 
